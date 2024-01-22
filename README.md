@@ -31,7 +31,7 @@
 
 
 
-<h2 align="center">Onde me encontrar</h2>
+<<h2 align="center">Onde me encontrar</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renatobonivegh/" target="_blank">
@@ -43,10 +43,17 @@
   <a href="https://www.youtube.com/channel/UCpvTx7ogv41l2NXUvAG3uxg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  <a href="https://www.instagram.com/renato.veghing05?igsh=MWRuYW05aWpoYTl5aA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discordapp.com/invite/insira_seu_servidor_aqui" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   <a href="https://www.buymeacoffee.com/renatosbv2m" target="_blank">
     <img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/>
   </a>
 </p>
+
 
 <h2 align="center">Contato</h2>
 
