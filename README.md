@@ -48,7 +48,7 @@
   <a href="https://x.com/RenatoVegh_Dev?t=JHt0-F-A3GzqC9iPY0NWAQ&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://discordapp.com/invite/insira_seu_servidor_aqui" target="_blank">
+  <a href="https://discord.com/channels/@Veghing05" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://www.buymeacoffee.com/renatosbv2m" target="_blank">
