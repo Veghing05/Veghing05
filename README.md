@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"(https://www.linkedin.com/in/renatobonivegh/) />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
@@ -63,4 +63,4 @@
 ###
 
 <h3 align="left">Suporte:</h3>
-<p><a href="https://www.buymeacoffee.com/RenatoVegh_Dev"> <img align="left" src="https://cdn .buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RenatoVegh_Dev" /></a> </p><br> <br>
+<p><a href="[https://www.buymeacoffee.com/RenatoVegh_Dev](https://www.buymeacoffee.com/app/dashboard)"> <img align="left" src="https://cdn .buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RenatoVegh_Dev" /></a> </p><br> <br>
