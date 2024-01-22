@@ -30,15 +30,11 @@
 
 
 
-
-<<h2 align="center">Onde me encontrar</h2>
+<h2 align="center">Onde me encontrar</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renatobonivegh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-   <a href="https://x.com/RenatoVegh_Dev?t=GL27jSnn8vchWmV22z9RKA&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100004512785027" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -46,8 +42,11 @@
   <a href="https://www.youtube.com/channel/UCpvTx7ogv41l2NXUvAG3uxg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.instagram.com/renato.veghing05?igsh=MWRuYW05aWpoYTl5aA==" target="_blank">
+  <a href="https://www.instagram.com/insira_seu_usuario_aqui/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/RenatoVegh_Dev?t=JHt0-F-A3GzqC9iPY0NWAQ&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://discordapp.com/invite/insira_seu_servidor_aqui" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -56,6 +55,7 @@
     <img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/>
   </a>
 </p>
+
 
 
 <h2 align="center">Contato</h2>
