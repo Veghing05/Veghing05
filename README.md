@@ -54,14 +54,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Veghing05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+
+<h3 align="left">Suporte:</h3>
+<p><a href="https://www.buymeacoffee.com/RenatoVegh_Dev"> <img align="left" src="https://cdn .buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RenatoVegh_Dev" /></a> </p><br> <br>
