@@ -1,66 +1,61 @@
-<div align="center">
-  
-</div>
+<h1 align="center">👨‍💻 Renato Vegh - Engenheiro de Software em Formação</h1>
 
-###
+<p align="center">
+  Bem-vindo ao meu perfil! Sou um estudante de Engenharia de Software apaixonado por desenvolvimento web e tecnologias modernas.
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"(https://www.linkedin.com/in/renatobonivegh/) />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<h2 align="center">Tecnologias que eu trabalho</h2>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Veghing05.Veghing05&"  />
-</div>
+<h2 align="center">Estatísticas do GitHub</h2>
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Veghing05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+</p>
 
-<h1 align="center">Óla  Meu nome é Renato Vegh👋</h1>
+<h2 align="center">Troféus GitHub</h2>
 
-###
-
-<h3 align="left">👩‍💻  SOBRE MIM</h3>
-
-###
-
-<p align="left">Eu estou graduando em engenharia de software.<br><br>- 🔭 Eu estou trabalhando no Bootcamp da Dio com front-end<br>- 📚  Atualmente estou aprendendo front-end <br>- ⚡ No meu tempo livre estou me dedicando a faculdade e no meu desenvolvimento front-end.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Veghin05&theme=nord&column=7" alt="GitHub Trophies" align="center" />
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Veghing05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+<h2 align="center">Onde me encontrar</h2>
 
-<h3 align="left">Suporte:</h3>
-<p><a href="[https://www.buymeacoffee.com/RenatoVegh_Dev](https://www.buymeacoffee.com/app/dashboard)"> <img align="left" src="https://cdn .buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RenatoVegh_Dev" /></a> </p><br> <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/renatobonivegh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100004512785027" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCpvTx7ogv41l2NXUvAG3uxg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/renatosbv2m" target="_blank">
+    <img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/>
+  </a>
+</p>
+
+<h2 align="center">Contato</h2>
+
+<p align="center">
+  📧 Email: rsbvegh@outlook.com
+</p>
+
+<h2 align="center">Sobre mim</h2>
+
+<p align="center">
+  Além de meu interesse em tecnologia, gosto de compartilhar conhecimento e experiências. Fique à vontade para entrar em contato para discutir projetos, colaborações ou apenas para bater um papo sobre programação!
+</p>
