@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>Hello! My name is Renato and I'm a tech enthusiast. Currently, I am studying Software Engineering at Estácio. I have experience with frontend technologies, including HTML, CSS, JavaScript, Node.js and Bootstrap. In addition, I am improving my knowledge through the Full Stack Java course at EBAC.<br><br>My passion for challenges motivates me to constantly learn and overcome obstacles. I have an intermediate level of English, with strong skills in writing and reading, but I am always willing to improve my fluency.<br><br>I'm excited to enter the workforce and contribute to teams and companies. If you are looking for a dedicated, adaptable and passionate professional, I will be happy to be part of your team.
 
 
@@ -7,6 +6,7 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Veghing05&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Veghing05&theme=github_dark&hide_border=false)<br/>
