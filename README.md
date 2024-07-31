@@ -1,4 +1,6 @@
-# 💫 About Me:<br>Hello! My name is Renato and I'm a tech enthusiast. Currently, I am studying Software Engineering at Estácio. I have experience with frontend technologies, including HTML, CSS, JavaScript, Node.js and Bootstrap. In addition, I am improving my knowledge through the Full Stack Java course at EBAC.<br><br>My passion for challenges motivates me to constantly learn and overcome obstacles. I have an intermediate level of English, with strong skills in writing and reading, but I am always willing to improve my fluency.<br><br>I'm excited to enter the workforce and contribute to teams and companies. If you are looking for a dedicated, adaptable and passionate professional, I will be happy to be part of your team.
+# 💫 About Me
+
+<br>Hello! My name is Renato and I'm a tech enthusiast. Currently, I am studying Software Engineering at Estácio. I have experience with frontend technologies, including HTML, CSS, JavaScript, Node.js and Bootstrap. In addition, I am improving my knowledge through the Full Stack Java course at EBAC.<br><br>My passion for challenges motivates me to constantly learn and overcome obstacles. I have an intermediate level of English, with strong skills in writing and reading, but I am always willing to improve my fluency.<br><br>I'm excited to enter the workforce and contribute to teams and companies. If you are looking for a dedicated, adaptable and passionate professional, I will be happy to be part of your team.
 
 
 ## 🌐 Socials:
