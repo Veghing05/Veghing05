@@ -34,8 +34,8 @@ Minha paixão por desafios e minha dedicação me motivam a contribuir ativament
 
 ### 🌐 Conecte-se e Veja Meu Trabalho!
 
-* **LinkedIn:** [https://www.linkedin.com/in/renatobonivegh/]
-* **Email:** [rsbvegh@outlook.com]
+* **LinkedIn:** https://www.linkedin.com/in/renatobonivegh/
+* **Email:** rsbvegh@outlook.com
 * **Portfólio/Projetos:** **(Confira meus Repositórios Fixados logo abaixo!)**
 
 <hr>
@@ -68,4 +68,4 @@ Minha maior contribuição até agora foi em: **[Nome do Seu Repositório de Mai
 
 ### 🤝 Apoie Meu Trabalho!
 
-💰 Você pode me ajudar doando: [buymeacoffee.com/renatosbv2m]
+💰 Você pode me ajudar doando: buymeacoffee.com/renatosbv2m
