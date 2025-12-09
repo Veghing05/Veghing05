@@ -1,33 +1,71 @@
-# 💫 About Me
+## 🚀 Renato Vegh | Desenvolvedor Fullstack em Formação
 
-<br>Hello! My name is Renato and I'm a tech enthusiast. Currently, I am studying Software Engineering at Estácio. I have experience with frontend technologies, including HTML, CSS, JavaScript, Node.js and Bootstrap. In addition, I am improving my knowledge through the Full Stack Java course at EBAC.<br><br>My passion for challenges motivates me to constantly learn and overcome obstacles. I have an intermediate level of English, with strong skills in writing and reading, but I am always willing to improve my fluency.<br><br>I'm excited to enter the workforce and contribute to teams and companies. If you are looking for a dedicated, adaptable and passionate professional, I will be happy to be part of your team.
+### 🎯 Status: Em Busca de Oportunidade Júnior/Freela de Front-end
 
+Olá! Meu nome é Renato e sou um entusiasta de tecnologia, atualmente cursando **Engenharia de Software na Estácio**.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/https://facebook.com/https://www.facebook.com/profile.php?id=100004512785027) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/renatobonivegh/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@https://youtube.com/@https://www.youtube.com/channel/UCpvTx7ogv41l2NXUvAG3uxg) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/https://codepen.io/https://codepen.io/Veghing05) 
+Estou dedicando meu tempo ao curso **Full Stack Java da EBAC** (com 25% já concluído), o que me proporciona uma base sólida em Front-end (HTML, CSS, JavaScript) e me prepara para aprofundar no ecossistema **Java/Spring Boot**.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Minha paixão por desafios e minha dedicação me motivam a contribuir ativamente. Procuro a minha primeira oportunidade como **Programador Júnior** ou em projetos **Freela** para aplicar meu conhecimento e crescer rapidamente.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Veghing05&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Veghing05&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Veghing05&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Veghing05&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
+### 💡 Por Que Me Contratar?
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+* **Foco em Resultados:** Base sólida para desenvolver interfaces responsivas e dinâmicas com JavaScript, jQuery e Bootstrap.
+* **Ferramentas de Mercado:** Conhecimento em pré-processadores (**Sass**) e *Task Runners* (**Gulp**), otimizando o fluxo de trabalho.
+* **Mindset Fullstack:** Próximo foco é dominar Java (Spring Boot, JPA) para construir aplicações completas e escaláveis.
+* **Comunicação:** Inglês intermediário (leitura e escrita forte) e excelente capacidade de adaptação e aprendizado contínuo.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Veghing05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<hr>
 
----
-[![](https://visitcount.itsvg.in/api?id=Veghing05&icon=5&color=12)](https://visitcount.itsvg.in)
+### 💻 Tech Stack & Ferramentas
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/https://www.buymeacoffee.com/renatosbv2m) 
+| Categoria | Tecnologias | Nível/Status |
+| :--- | :--- | :--- |
+| **Front-end Essencial** | HTML5, CSS3, JavaScript, jQuery | Sólido |
+| **Estilização** | Sass, Bootstrap | Aplicado em projetos |
+| **Back-end/Futuro** | Java, Node.js (Experiência), Spring Boot | Em Estudo Avançado |
+| **Automação** | Gulp | Conhecimento Básico/Em Aperfeiçoamento |
+| **Controle de Versão** | Git, GitHub | Profissional |
+| **Educação** | Estácio (Eng. de Software), EBAC (Fullstack Java) | Cursando |
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr>
+
+### 🌐 Conecte-se e Veja Meu Trabalho!
+
+* **LinkedIn:** [https://www.linkedin.com/in/renatobonivegh/]
+* **Email:** [rsbvegh@outlook.com]
+* **Portfólio/Projetos:** **(Confira meus Repositórios Fixados logo abaixo!)**
+
+<hr>
+
+### 📊 Minhas Estatísticas do GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dark)](https://github.com/anurag-dev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=dark)](https://github.com/anurag-dev/github-readme-stats)
+
+<hr>
+
+### 🏆 Meus Troféus do GitHub
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[SEU_USUARIO_GITHUB]&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr>
+
+### ✍️ Citação Aleatória de Desenvolvedor
+
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://quotes-github-readme.vercel.app/)
+
+<hr>
+
+### 🔝 Repositório com Mais Contribuições
+
+Minha maior contribuição até agora foi em: **[Nome do Seu Repositório de Maior Contribuição](Link para o Repositório)** (Ex: um projeto pessoal, um fork, etc.)
+
+<hr>
+
+### 🤝 Apoie Meu Trabalho!
+
+💰 Você pode me ajudar doando: [buymeacoffee.com/renatosbv2m]
