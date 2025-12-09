@@ -42,15 +42,15 @@ Minha paixão por desafios e minha dedicação me motivam a contribuir ativament
 
 ### 📊 Minhas Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dark)](https://github.com/anurag-dev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veghing05&show_icons=true&theme=dark)](https://github.com/anurag-dev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=dark)](https://github.com/anurag-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veghing05&layout=compact&theme=dark)](https://github.com/anurag-dev/github-readme-stats)
 
 <hr>
 
 ### 🏆 Meus Troféus do GitHub
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[SEU_USUARIO_GITHUB]&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Veghing05&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
@@ -60,12 +60,12 @@ Minha paixão por desafios e minha dedicação me motivam a contribuir ativament
 
 <hr>
 
-### 🔝 Repositório com Mais Contribuições
+### 🔝 Meu Portfólio
 
-Minha maior contribuição até agora foi em: **[Nome do Seu Repositório de Maior Contribuição](Link para o Repositório)** (Ex: um projeto pessoal, um fork, etc.)
+Minha maior contribuição até agora foi em: **[https://meu-portfolio-umber-nine.vercel.app/](https://meu-portfolio-umber-nine.vercel.app/)**
 
 <hr>
 
 ### 🤝 Apoie Meu Trabalho!
 
-💰 Você pode me ajudar doando: buymeacoffee.com/renatosbv2m
+💰 Você pode me ajudar doando: [buymeacoffee.com/renatosbv2m](http://buymeacoffee.com/renatosbv2m)
