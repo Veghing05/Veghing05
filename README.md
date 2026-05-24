@@ -1,21 +1,21 @@
-## 🚀 Renato Vegh | Desenvolvedor Fullstack em Formação
+## 🚀 Renato Vegh | Desenvolvedor Full-Stack em Formação
 
-### 🎯 Status: Em Busca de Oportunidade Júnior/Freela de Front-end
+### 🎯 Status: Em Busca de Estágio ou Oportunidade Júnior em TI
 
-Olá! Meu nome é Renato e sou um entusiasta de tecnologia, atualmente cursando **Engenharia de Software na Estácio**.
+Olá! Meu nome é Renato e sou um entusiasta de tecnologia focado em engenharia de software, atualmente cursando **Engenharia de Software na UniFatecie**.
 
-Estou dedicando meu tempo ao curso **Full Stack Java da EBAC** (com 25% já concluído), o que me proporciona uma base sólida em Front-end (HTML, CSS, JavaScript) e me prepara para aprofundar no ecossistema **Java/Spring Boot**.
+Estou dedicando meu tempo ao ecossistema **Java e React através do plano DIO Global**, construindo uma base sólida em desenvolvimento de software com foco em arquiteturas escaláveis, APIs RESTful e interfaces modernas. 
 
-Minha paixão por desafios e minha dedicação me motivam a contribuir ativamente. Procuro a minha primeira oportunidade como **Programador Júnior** ou em projetos **Freela** para aplicar meu conhecimento e crescer rapidamente.
+Minha paixão por desafios e resiliência me motivam a evoluir diariamente. Procuro a minha primeira oportunidade como **Estagiário** ou **Programador Júnior** para aplicar meu conhecimento prático e contribuir ativamente com o time.
 
 <hr>
 
 ### 💡 Por Que Me Contratar?
 
-* **Foco em Resultados:** Base sólida para desenvolver interfaces responsivas e dinâmicas com JavaScript, jQuery e Bootstrap.
-* **Ferramentas de Mercado:** Conhecimento em pré-processadores (**Sass**) e *Task Runners* (**Gulp**), otimizando o fluxo de trabalho.
-* **Mindset Fullstack:** Próximo foco é dominar Java (Spring Boot, JPA) para construir aplicações completas e escaláveis.
-* **Comunicação:** Inglês intermediário (leitura e escrita forte) e excelente capacidade de adaptação e aprendizado contínuo.
+* **Mindset Full-Stack:** Foco estratégico no ecossistema Java (Spring Boot) para o Back-end e React/TypeScript para a construção de interfaces dinâmicas.
+* **Resolução de Problemas (Troubleshooting):** Bagagem prática em infraestrutura técnica e lógica de redes, trazendo facilidade para diagnosticar falhas e entender fluxos complexos de dados.
+* **Orientação a Processos:** Acostumado a seguir metodologias estruturadas, documentação técnica e padrões rígidos de qualidade.
+* **Comunicação Global:** Praticando inglês diariamente focado em termos técnicos, leitura de documentações e comunicação para o mercado de TI.
 
 <hr>
 
@@ -23,12 +23,11 @@ Minha paixão por desafios e minha dedicação me motivam a contribuir ativament
 
 | Categoria | Tecnologias | Nível/Status |
 | :--- | :--- | :--- |
-| **Front-end Essencial** | HTML5, CSS3, JavaScript, jQuery | Sólido |
-| **Estilização** | Sass, Bootstrap | Aplicado em projetos |
-| **Back-end/Futuro** | Java, Node.js (Experiência), Spring Boot | Em Estudo Avançado |
-| **Automação** | Gulp | Conhecimento Básico/Em Aperfeiçoamento |
-| **Controle de Versão** | Git, GitHub | Profissional |
-| **Educação** | Estácio (Eng. de Software), EBAC (Fullstack Java) | Cursando |
+| **Back-end Foco** | Java, Spring Boot, POO | Em Estudo Ativo / Projetos |
+| **Front-end Foco** | React, JavaScript (ES6+), HTML5, CSS3 | Aplicado em Projetos |
+| **Banco de Dados** | Estruturas Relacionais (SQL) | Em Aprendizado |
+| **Controle de Versão** | Git, GitHub | Profissional / Uso Diário |
+| **Educação** | UniFatecie (Análise e desenvolvimento de software) \| DIO Global Vitalício | Cursando |
 
 <hr>
 
@@ -63,9 +62,3 @@ Minha paixão por desafios e minha dedicação me motivam a contribuir ativament
 ### 🔝 Meu Portfólio
 
 Minha maior contribuição até agora foi em: **[https://meu-portfolio-umber-nine.vercel.app/](https://meu-portfolio-umber-nine.vercel.app/)**
-
-<hr>
-
-### 🤝 Apoie Meu Trabalho!
-
-💰 Você pode me ajudar doando: [buymeacoffee.com/renatosbv2m](http://buymeacoffee.com/renatosbv2m)
