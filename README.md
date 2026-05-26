@@ -2,7 +2,7 @@
 
 ### 🎯 Status: Em Busca de Estágio ou Oportunidade Júnior em TI
 
-Olá! Meu nome é Renato e sou um entusiasta de tecnologia focado em engenharia de software, atualmente cursando **Engenharia de Software na UniFatecie**.
+Olá! Meu nome é Renato e sou um entusiasta de tecnologia focado em desenvolvimento de software, atualmente cursando **Análise e desenvolvimento de sistemas na UniFatecie**.
 
 Estou dedicando meu tempo ao ecossistema **Java e React através do plano DIO Global**, construindo uma base sólida em desenvolvimento de software com foco em arquiteturas escaláveis, APIs RESTful e interfaces modernas. 
 
